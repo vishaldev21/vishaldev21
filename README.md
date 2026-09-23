@@ -11,7 +11,7 @@ I build full-stack applications, developer tools, real-time systems, backend ser
 ## What I build
 
 - **Full-stack:** React, Node.js, Express, REST APIs, MongoDB, PostgreSQL, Redis
-- **Backend & systems:** Go, FastAPI, Spring Boot, authentication, caching, webhooks
+- **Backend & systems:** Go, FastAPI, authentication, caching, webhooks
 - **Real-time:** Socket.IO, collaboration, messaging, multiplayer apps
 - **Developer tooling:** VS Code extensions, code editors, CLI tools
 - **AI & integrations:** OpenAI, LangChain, Slack, GitHub
@@ -24,7 +24,7 @@ Collaborative developer workspace built with React, Node.js, Express, MongoDB, a
 
 ### [Job Skills Recommender](https://github.com/vishaldev21/skills-recommender)
 
-AI-assisted career coach that turns current job postings into a practical learning roadmap. It can collect matching postings from LinkedIn and Naukri, extract technical skills, calculate skill demand, store job/skill data in PostgreSQL, and generate prerequisite-ordered learning roadmaps using FastAPI, Chainlit, OpenAI, LangChain, and Bright Data.
+AI-assisted career coach that turns current job postings into a practical learning roadmap. It can collect matching postings from LinkedIn and Naukri, extract technical skills, calculate skill demand, store job/skill data in PostgreSQL, and generate prerequisite-ordered learning roadmaps using FastAPI, Chainlit, OpenAI, and Bright Data.
 
 ### [Slack Bot for OpenMetadata](https://github.com/vishaldev21/slack-bot-open-meta-data)
 
