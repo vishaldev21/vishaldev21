@@ -11,13 +11,16 @@ I build full-stack applications, developer tools, real-time systems, backend ser
 ## What I build
 
 - **Full-stack:** React, Node.js, Express, REST APIs, MongoDB, PostgreSQL, Redis
-- **Backend & systems:** Go, FastAPI, Spring Boot, authentication, caching, streams, webhooks, Kafka
+- **Backend & systems:** Go, FastAPI, Spring Boot, authentication, caching, webhooks
 - **Real-time:** Socket.IO, collaboration, messaging, multiplayer apps
-- **Developer tooling:** VS Code extensions, code editors, code execution, WebContainers, CLI tools
-- **AI & integrations:** OpenAI, LangChain, Slack, GitHub, Discord, job-data pipelines
-- **Mobile:** React Native + TypeScript
+- **Developer tooling:** VS Code extensions, code editors, CLI tools
+- **AI & integrations:** OpenAI, LangChain, Slack, GitHub
 
 ## Projects
+
+### [Code-Room](https://github.com/vishaldev21/code-room)
+
+Collaborative developer workspace built with React, Node.js, Express, MongoDB, and Socket.IO. It includes collaborative code editing, real-time messaging and image sharing, an interactive virtual whiteboard, project notes, and chatbot assistance.
 
 ### [Job Skills Recommender](https://github.com/vishaldev21/skills-recommender)
 
@@ -31,21 +34,18 @@ Slack bot built with Python, Slack Bolt, LangChain, and OpenMetadata integration
 
 Visual Studio Code extension for sharing and exploring projects, with GitHub authentication, project creation and management, Markdown support, real-time likes/views, and a Go + MongoDB backend.
 
+### [Concept Reviser](https://github.com/vishaldev21/Concept-Reviser)
+
+Visual Studio Code extension for interactive programming revision. It provides programming MCQs, saved questions, and programming-related blogs inside VS Code, backed by a Go service.
+
 ### [ChatGPT Discord Bot](https://github.com/vishaldev21/chat-gpt-discord-bot)
 
 Discord bot built with Node.js with ChatGPT conversations, image generation, GitHub commit lookup, server information, and Docker support.
-
-### [Code-Room](https://github.com/vishaldev21/code-room)
-
-Collaborative developer workspace built with React, Node.js, Express, MongoDB, and Socket.IO. It includes collaborative code editing, real-time messaging and image sharing, an interactive virtual whiteboard, project notes, and chatbot assistance.
 
 ### [Multiplayer Tic-Tac-Toe](https://github.com/vishaldev21/multiplayer-tic-tac-toe)
 
 Real-time multiplayer Tic-Tac-Toe game built with React, Node.js, and Socket.IO, including player join flow, waiting state, and synchronized gameplay.
 
-### [Concept Reviser](https://github.com/vishaldev21/Concept-Reviser)
-
-Visual Studio Code extension for interactive programming revision. It provides programming MCQs, saved questions, and programming-related blogs inside VS Code, backed by a Go service.
 
 ## Writing
 
@@ -55,6 +55,3 @@ Visual Studio Code extension for interactive programming revision. It provides p
 - [Closures in JavaScript](https://vishal21121.hashnode.dev/closures-in-javascript)
 - [Array.slice vs Array.splice](https://vishal21121.hashnode.dev/slice-vs-splice)
 
----
-
-**Education:** B.Tech in Computer Science and Engineering, Future Institute of Engineering and Management Kolkata (2020–2024, CGPA 9.03/10)
