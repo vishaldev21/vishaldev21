@@ -2,7 +2,7 @@
 
 **Associate Software Engineer @ Accenture | Full-stack developer | Automation, backend & developer tooling**
 
-I build full-stack applications, developer tools, real-time systems, backend services, AI-assisted applications, and automation workflows across JavaScript/TypeScript, Go, Python, Java, and mobile.
+I build full-stack applications, developer tools, real-time systems, backend services, AI-assisted applications, and automation workflows across JavaScript/TypeScript, Go, Python, Java.
 
 [![Email](https://img.shields.io/badge/Email-vishal.singh.codes%40gmail.com-informational?style=flat-square)](mailto:vishal.singh.codes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Singh-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/vishalsingh33)
